@@ -1,4 +1,4 @@
-# Introduction
+# UROOJ
 - Hi :wave: 
 - I am Urooj. I am from Pakistan and living in Berlin. 
 - I am a student learning to build cool stuff on the web. Exploring HTML, CSS, and JavaScript to make websites come alive!
