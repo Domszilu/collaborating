@@ -43,7 +43,7 @@ Optional
 - the realization or fulfilment of one's talents and potentialities, especially considered as a drive or need present in everyone.
 
 
-# Introduction
+# Urooj
 - Hi :wave: 
 - I am Urooj. I am from Pakistan and living in Berlin. 
 - I am a student learning to build cool stuff on the web. Exploring HTML, CSS, and JavaScript to make websites come alive!
